@@ -1,1 +1,1 @@
-# pintjs
+# paintjs
